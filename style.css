@@ -1,0 +1,15 @@
+#trophy-pic {
+    height: 600px;
+    width: 900px;
+}
+
+.card-body {
+    width: 500px;
+    margin: 10% auto;
+    border: 1px solid rgb(161, 164, 165);
+}
+
+.user-pic-img {
+    height: 600px;
+    width: 900px;
+}
